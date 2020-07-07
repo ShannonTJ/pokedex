@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/simple-dex/static/css/main.460b89dc.chunk.css",
+    "main.js": "/simple-dex/static/js/main.51aba980.chunk.js",
+    "main.js.map": "/simple-dex/static/js/main.51aba980.chunk.js.map",
+    "runtime-main.js": "/simple-dex/static/js/runtime-main.d053d478.js",
+    "runtime-main.js.map": "/simple-dex/static/js/runtime-main.d053d478.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/simple-dex/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.48398a97.chunk.js": "/simple-dex/static/js/2.48398a97.chunk.js",
+    "static/js/2.48398a97.chunk.js.map": "/simple-dex/static/js/2.48398a97.chunk.js.map",
+    "index.html": "/simple-dex/index.html",
+    "precache-manifest.46e1d5ef6b761d96831bed406f5a8a8b.js": "/simple-dex/precache-manifest.46e1d5ef6b761d96831bed406f5a8a8b.js",
+    "service-worker.js": "/simple-dex/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/simple-dex/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.460b89dc.chunk.css.map": "/simple-dex/static/css/main.460b89dc.chunk.css.map",
+    "static/js/2.48398a97.chunk.js.LICENSE.txt": "/simple-dex/static/js/2.48398a97.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d053d478.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.48398a97.chunk.js",
+    "static/css/main.460b89dc.chunk.css",
+    "static/js/main.51aba980.chunk.js"
+  ]
+}
